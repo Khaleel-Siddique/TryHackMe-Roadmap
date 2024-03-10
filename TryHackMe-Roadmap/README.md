@@ -10,7 +10,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ## Maintainer
 
-> **_This repository is maintained by [Al Arafat Tanin | rng70](https://github.com/rng70/). For any suggestion feel free to reach [me.](https://github.com/rng70/)_**
+
 
 <br/>
 
